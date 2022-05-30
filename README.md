@@ -1,1 +1,1 @@
-# 2d-ball-game
+# 2D Ball Game
